@@ -4,8 +4,6 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
-	<h1>Hello Jenkins!</h1>
-	<h1>Hello Docker!</h1>
 	<h1>Hello lucifer!</h1>
 	<p>
 		It is now
